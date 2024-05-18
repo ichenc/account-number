@@ -4,7 +4,7 @@
 - 准备一个浏览器，建议使用Chrome或Edge。
 注册一个Google账号并使用它登录社交平台，可以为你的在线生活带来便利和乐趣。以下是一步步的指南：
 ## 一、注册Google账号
-- [Google账号详细注册方法](https://github.com/ichenc/account-number/media/Google.md)。
+- [Google账号详细注册方法](https://ichenc.github.io/account-number/media/Google.md)。
 - 打开浏览器，访问 [Google账号注册页面](https://accounts.google.com/signup)。
 ## 二：使用Google账号登录其他社交平台
 ### 1.Instagram (Ins) 注册与登录步骤
