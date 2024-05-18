@@ -13,8 +13,7 @@
 3. 如果你已有账号，点击“登录”并选择“使用Google账号登录”。
 4. 选择你的Google账号并授权Instagram访问。
 5. 登录成功，开始享受Instagram的乐趣。
-### 官方注册地址
-- [注册Instagram账号](https://www.instagram.com/accounts/web/create/)
+### 官方注册地址[注册Instagram账号](https://www.instagram.com/accounts/web/create/)
 ### 2.YouTube 注册与登录步骤
 1. 打开YouTube应用或网站。
 2. 如果你是新用户，点击“创建新账号”并按照提示完成注册。
@@ -22,8 +21,7 @@
 4. 选择“使用Google账号登录”。
 5. 授权YouTube访问你的Google账号信息。
 6. 登录并开始探索YouTube的世界。
-### 官方注册地址
-- [注册YouTube账号](https://www.youtube.com/create_channel)
+### 官方注册地址[注册YouTube账号](https://www.youtube.com/create_channel)
 ### 3.Facebook 注册与登录步骤
 1. 访问 [Facebook](https://www.facebook.com/)。
 2. 如果你是新用户，点击“创建新Facebook账号”并按照提示完成注册。
@@ -31,8 +29,7 @@
 4. 选择“使用Google账号登录”。
 5. 授权Facebook使用你的Google账号信息。
 6. 登录并开始使用Facebook。
-### 官方注册地址
-- [注册Facebook账号](https://www.facebook.com/)
+### 官方注册地址[注册Facebook账号](https://www.facebook.com/)
 ### 4.X（原Twitter） 注册与登录步骤
 1. 打开你选择的社交平台应用或网站。
 2. 查找并点击“登录”或“注册”按钮。
